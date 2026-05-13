@@ -1,2 +1,3 @@
 # ivankc-demo
-This is my first repository
+This is my first Git repository
+Author - Ivan kc
